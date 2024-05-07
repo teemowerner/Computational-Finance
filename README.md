@@ -1,5 +1,6 @@
-# Computational-Finance
-2023 여름학기 튀빙겐대학교 석사수업
+# Computational-Finance 📈 
+2023 여름학기 튀빙겐대학교 석사수업 Computational Finance 기말 과제 프레젠테이션, A(2.0) 학점, 
+세 개의 투자 알고리즘(이동평균, 볼린져 밴드, RSI)을 구현하여서 2010-01-01 과 2023-06-14 사이의 투자 수익률을 비교
 
 ## Research Notebook_Group 6
 
